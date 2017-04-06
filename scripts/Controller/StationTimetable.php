@@ -8,7 +8,7 @@ namespace Controller;
 class StationTimetable
 {
     /**
-     * Класс парсит расписания поездов по станции
+     * Метод парсит расписания поездов по станции
      *
      * @param string $station код станции
      * @param string $date дата расписания

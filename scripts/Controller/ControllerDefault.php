@@ -2,7 +2,7 @@
 
 namespace Controller;
 
-class ControllerDefault
+class ControllerDefault implements ControllerInterface
 {
     public function ab($from, $to, $date)
     {

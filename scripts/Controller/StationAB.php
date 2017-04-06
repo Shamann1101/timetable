@@ -8,7 +8,7 @@ namespace Controller;
 class StationAB
 {
     /**
-     * Класс парсит расписания поездов из пункта А в пункт В
+     * Метод парсит расписания поездов из пункта А в пункт В
      *
      * @param stringFrom $station код станции отправления
      * @param stringTo $station код станции назначения

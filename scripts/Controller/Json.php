@@ -2,7 +2,7 @@
 
 namespace Controller;
 
-class Json
+class Json ControllerInterface
 {
     public function ab($from, $to, $date)
     {
